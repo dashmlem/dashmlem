@@ -26,7 +26,7 @@ Figma, PS, AI
 
 ## 🔗 Контакты
 
-telegram: t.me//dashmlem
+telegram: https://t.me//dashmlem
 
 Электронная почта: karpovich1310@gmail.com
 
