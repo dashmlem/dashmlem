@@ -14,6 +14,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />&nbsp;
 
+Мои недавние проекты:
+[Изучала работу с API, это генератор случайных картинок котиков]
+https://dashmlem.github.io/random-cat-generator-online-free-xbox-52.86/
+
+
+
+
 
 ### 🔆 Владею Английским языком на уровне C1 и изучаю итальянский на протяжении года
 
