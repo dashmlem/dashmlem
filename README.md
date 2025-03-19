@@ -26,8 +26,11 @@
 Онлайн магазин мебели! (HTML, CSS, JS, Bootstrap)
  https://dashmlem.github.io/e-commerce-decorations-store/
 
- ТЗ - страница с поездками на транспорте
- https://dashmlem.github.io/transport-rides/ (HTML, CSS)
+ТЗ - страница с поездками на транспорте (HTML, CSS)
+ https://dashmlem.github.io/transport-rides/ 
+
+Вёрстка сайта по макету из Figma (HTML, CSS)
+ https://dashmlem.github.io/cccc/
 
 ### 🔆 Владею Английским языком на уровне C1 и изучаю итальянский на протяжении года
 
