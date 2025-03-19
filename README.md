@@ -33,13 +33,13 @@
 ТЗ - страница с поездками на транспорте (HTML, CSS)
  https://dashmlem.github.io/transport-rides/ 
 
-Вёрстка лендинга по макету из Figma о строительной компании (HTML, CSS)
+Вёрстка лендинга по макету из Figma о строительной компании (HTML, SCSS, BEM)
  https://dashmlem.github.io/cccc/
 
-Вёрстка лендинга по макету из Figma о компании для приобретения авиабилетов (HTML, CSS)
+Вёрстка лендинга по макету из Figma о компании для приобретения авиабилетов (HTML, SCSS, BEM)
  https://dashmlem.github.io/flivan/
 
- Вёрстка лендинга по макету из Figma аналитической компании (HTML, CSS)
+ Вёрстка лендинга по макету из Figma аналитической компании (HTML, SCSS, BEM)
  https://dashmlem.github.io/analyticsland/
  
 Добавление JS-логики на сайт с карточками (HTML, CSS, JS)
