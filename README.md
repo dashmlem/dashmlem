@@ -26,6 +26,9 @@
 Изучала работу с API, генератор случайных картинок котиков:
  https://dashmlem.github.io/random-cat-generator-online-free-xbox-52.86/           
 
+Всё о чае: сайт с таймером заварки и советами для всех видов чая
+ https://dashmlem.github.io/tea-website/
+
 ТЗ - калькулятор, полностью рабочий, розовый) (HTML, CSS, JS)
  https://dashmlem.github.io/calculator/
 
