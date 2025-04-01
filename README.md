@@ -17,7 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />&nbsp;
 
 ## Мои недавние проекты:
-
+Генератор оправданий, почему дедлайн был сорван (HTML, CSS, JS)
+ https://dashmlem.github.io/excuses_generator/
+ 
 Про путешествия (HTML, CSS)
  https://dashmlem.github.io/Yandex_uni_project_travel/
  
