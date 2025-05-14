@@ -26,7 +26,7 @@ E-commerce Магазин одежды на реакте с использова
 
 
 Приложение - Погода! Температура, влажность, скорость ветра и прочее в любом городе за пару кликов (React, Vitejs, TailwindCss, TS)
-
+https://weather-app-wgin.vercel.app/
 
 Генератор оправданий, почему дедлайн был сорван (HTML, CSS, JS)
  https://dashmlem.github.io/excuses_generator/
