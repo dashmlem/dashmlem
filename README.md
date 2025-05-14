@@ -21,7 +21,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"  />&nbsp;
 
-## Мои недавние проекты:
+## Мои проекты:
+E-commerce Магазин одежды на реакте с использованием tailwindCss, ts, js, В планах - полноценный MERN веб-сайт интернет-магазина. (React, Vitejs, TailwindCss, JS, TS)
+
+
+Приложение - Погода! Температура, влажность, скорость ветра и прочее в любом городе за пару кликов (React, Vitejs, TailwindCss, TS)
+
+
 Генератор оправданий, почему дедлайн был сорван (HTML, CSS, JS)
  https://dashmlem.github.io/excuses_generator/
  
