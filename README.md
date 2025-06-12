@@ -54,9 +54,6 @@ https://weather-app-wgin.vercel.app/
 
 Вёрстка лендинга по макету из Figma о компании для приобретения авиабилетов (HTML, SCSS, BEM)
  https://dashmlem.github.io/flivan/
-
- Вёрстка лендинга по макету из Figma аналитической компании (HTML, SCSS, BEM)
- https://dashmlem.github.io/analyticsland/
  
 Добавление JS-логики на сайт с карточками (HTML, CSS, JS)
  https://dashmlem.github.io/Placeproject/
