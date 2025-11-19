@@ -24,6 +24,9 @@
 E-commerce Магазин одежды на реакте с использованием tailwindCss, ts, js, В планах - полноценный MERN веб-сайт интернет-магазина. (React, Vitejs, TailwindCss, JS, TS)
 https://dashmlem.github.io/ForeverBuy.in/
 
+Интернет-магазин (лендинг) на HTML, CSS, JS pixel-perfect
+[ссылка готовится...]
+
 Приложение - Погода! Температура, влажность, скорость ветра и прочее в любом городе за пару кликов (React, Vitejs, TailwindCss, TS)
 https://weather-app-wgin.vercel.app/
 
